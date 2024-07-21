@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-image: url('weatherbg.jpg'); 
+  height: 100%;
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
